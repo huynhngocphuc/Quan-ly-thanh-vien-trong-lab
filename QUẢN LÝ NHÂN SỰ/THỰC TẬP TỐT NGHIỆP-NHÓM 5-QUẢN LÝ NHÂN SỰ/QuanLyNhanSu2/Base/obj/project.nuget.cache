@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LW4xo/aHiVD5f+8DZAAmUeiO0x/GgB9LY0XosdbTZdyv1QMuTGtl0IBXfLMkA1T6W20+ylwD3ZSi0oZmPDLDdg==",
+  "success": true,
+  "projectFilePath": "D:\\Download\\QUẢN LÝ NHÂN SỰ\\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\\QuanLyNhanSu2\\Base\\Base.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

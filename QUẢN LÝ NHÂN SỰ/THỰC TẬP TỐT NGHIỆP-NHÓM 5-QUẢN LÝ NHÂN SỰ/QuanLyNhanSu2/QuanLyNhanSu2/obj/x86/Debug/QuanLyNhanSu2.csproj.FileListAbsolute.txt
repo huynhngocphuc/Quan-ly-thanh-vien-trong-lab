@@ -1,0 +1,188 @@
+D:\NIEM\CSharp\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmGioiThieu.resources
+D:\NIEM\CSharp\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmPhongBancs.resources
+D:\NIEM\CSharp\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.Properties.Resources.resources
+D:\NIEM\CSharp\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.csproj.GenerateResource.Cache
+D:\NIEM\CSharp\QuanLyNhanSu2\QuanLyNhanSu2\bin\Debug\QuanLyNhanSu2.exe
+D:\NIEM\CSharp\QuanLyNhanSu2\QuanLyNhanSu2\bin\Debug\QuanLyNhanSu2.pdb
+D:\NIEM\CSharp\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.exe
+D:\NIEM\CSharp\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.pdb
+D:\NIEM\CSharp\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmChucDanh.resources
+D:\NIEM\CSharp\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmChucVu.resources
+D:\NIEM\CSharp\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmTrinhDo.resources
+D:\NIEM\CSharp\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmKhenThuong.resources
+D:\NIEM\CSharp\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmKyLuat.resources
+D:\NIEM\CSharp\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.csprojResolveAssemblyReference.cache
+D:\NIEM\CSharp\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmBaoHiem.resources
+D:\NIEM\CSharp\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmHopDong.resources
+D:\NIEM\CSharp\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.frmHoSoNhanSu.resources
+D:\NIEM\CSharp\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmThongtinbanquyen.resources
+D:\NIEM\CSharp\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmChamcong.resources
+D:\NIEM\CSharp\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmDangNhap.resources
+D:\NIEM\CSharp\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmTimKiem.resources
+D:\NIEM\CSharp\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmCapnhatBH.resources
+D:\NIEM\Ki_I_Nam_3\Thực_Tập_Cơ_Sở\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.exe
+D:\NIEM\Ki_I_Nam_3\Thực_Tập_Cơ_Sở\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.pdb
+D:\NIEM\Ki_I_Nam_3\Thực_Tập_Cơ_Sở\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\bin\Debug\QuanLyNhanSu2.exe
+D:\NIEM\Ki_I_Nam_3\Thực_Tập_Cơ_Sở\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\bin\Debug\QuanLyNhanSu2.pdb
+D:\NIEM\Ki_I_Nam_3\Thực_Tập_Cơ_Sở\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.csprojResolveAssemblyReference.cache
+D:\NIEM\Ki_I_Nam_3\Thực_Tập_Cơ_Sở\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmCapnhatBH.resources
+D:\NIEM\Ki_I_Nam_3\Thực_Tập_Cơ_Sở\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmChamcong.resources
+D:\NIEM\Ki_I_Nam_3\Thực_Tập_Cơ_Sở\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmBaoHiem.resources
+D:\NIEM\Ki_I_Nam_3\Thực_Tập_Cơ_Sở\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmChucDanh.resources
+D:\NIEM\Ki_I_Nam_3\Thực_Tập_Cơ_Sở\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmChucVu.resources
+D:\NIEM\Ki_I_Nam_3\Thực_Tập_Cơ_Sở\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmDangNhap.resources
+D:\NIEM\Ki_I_Nam_3\Thực_Tập_Cơ_Sở\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmGioiThieu.resources
+D:\NIEM\Ki_I_Nam_3\Thực_Tập_Cơ_Sở\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmHopDong.resources
+D:\NIEM\Ki_I_Nam_3\Thực_Tập_Cơ_Sở\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.frmHoSoNhanSu.resources
+D:\NIEM\Ki_I_Nam_3\Thực_Tập_Cơ_Sở\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmKhenThuong.resources
+D:\NIEM\Ki_I_Nam_3\Thực_Tập_Cơ_Sở\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmKyLuat.resources
+D:\NIEM\Ki_I_Nam_3\Thực_Tập_Cơ_Sở\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmPhongBancs.resources
+D:\NIEM\Ki_I_Nam_3\Thực_Tập_Cơ_Sở\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmTimKiem.resources
+D:\NIEM\Ki_I_Nam_3\Thực_Tập_Cơ_Sở\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmTrinhDo.resources
+D:\NIEM\Ki_I_Nam_3\Thực_Tập_Cơ_Sở\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.Properties.Resources.resources
+D:\NIEM\Ki_I_Nam_3\Thực_Tập_Cơ_Sở\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmThongtinbanquyen.resources
+D:\NIEM\Ki_I_Nam_3\Thực_Tập_Cơ_Sở\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.csproj.GenerateResource.Cache
+H:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.exe
+H:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.pdb
+E:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.exe
+E:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.pdb
+E:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\bin\Debug\QuanLyNhanSu2.exe
+E:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\bin\Debug\QuanLyNhanSu2.pdb
+E:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.csprojResolveAssemblyReference.cache
+E:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmCapnhatBH.resources
+E:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmChamcong.resources
+E:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmBaoHiem.resources
+E:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmChucDanh.resources
+E:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmChucVu.resources
+E:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmDangNhap.resources
+E:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmGioiThieu.resources
+E:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmHopDong.resources
+E:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.frmHoSoNhanSu.resources
+E:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmKhenThuong.resources
+E:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmKyLuat.resources
+E:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmPhongBancs.resources
+E:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmTimKiem.resources
+E:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmTrinhDo.resources
+E:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.Properties.Resources.resources
+E:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmThongtinbanquyen.resources
+E:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.csproj.GenerateResource.Cache
+E:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FormTimKiem2.resources
+E:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmBac.resources
+E:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmHeSoLuong.resources
+E:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmLuongNhanSu.resources
+E:\THỰC TẬP CƠ SỞ-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmNgach.resources
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.exe
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.pdb
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\bin\Debug\QuanLyNhanSu2.exe
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\bin\Debug\QuanLyNhanSu2.pdb
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.csprojResolveAssemblyReference.cache
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FormTimKiem2.resources
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmCapnhatBH.resources
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmChamcong.resources
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmBaoHiem.resources
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmChucDanh.resources
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmChucVu.resources
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmDangNhap.resources
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmGioiThieu.resources
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmHopDong.resources
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.frmHoSoNhanSu.resources
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmKhenThuong.resources
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmKyLuat.resources
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmPhongBancs.resources
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmTimKiem.resources
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmTrinhDo.resources
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.Properties.Resources.resources
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmThongtinbanquyen.resources
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.csproj.GenerateResource.Cache
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.Test.resources
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\bin\Debug\QuanLyNhanSu2.exe.config
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.TinhLuong.resources
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.ThongTinLuong.resources
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmPhucap.resources
+E:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.LuongNV.resources
+C:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.csprojAssemblyReference.cache
+C:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmPhucap.resources
+C:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.LuongNV.resources
+C:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.ThongTinLuong.resources
+C:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FormTimKiem2.resources
+C:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmCapnhatBH.resources
+C:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmBaoHiem.resources
+C:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmChucDanh.resources
+C:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmChucVu.resources
+C:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmDangNhap.resources
+C:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmGioiThieu.resources
+C:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmHopDong.resources
+C:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.frmHoSoNhanSu.resources
+C:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmPhongBancs.resources
+C:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmTimKiem.resources
+C:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmTrinhDo.resources
+C:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.Properties.Resources.resources
+C:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmThongtinbanquyen.resources
+C:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.Test.resources
+C:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.TinhLuong.resources
+C:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.csproj.GenerateResource.cache
+C:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.csproj.CoreCompileInputs.cache
+C:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.exe
+C:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.pdb
+C:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\bin\Debug\QuanLyNhanSu2.exe.config
+C:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\bin\Debug\QuanLyNhanSu2.exe
+C:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\bin\Debug\QuanLyNhanSu2.pdb
+C:\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.csproj.ResolveComReference.cache
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\bin\Debug\QuanLyNhanSu2.exe.config
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\bin\Debug\QuanLyNhanSu2.exe
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\bin\Debug\QuanLyNhanSu2.pdb
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.csprojAssemblyReference.cache
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.csproj.ResolveComReference.cache
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmPhucap.resources
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.LuongNV.resources
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.ThongTinLuong.resources
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FormTimKiem2.resources
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmCapnhatBH.resources
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmChamcong.resources
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmBaoHiem.resources
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmChucDanh.resources
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmChucVu.resources
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmDangNhap.resources
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmGioiThieu.resources
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmHopDong.resources
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.frmHoSoNhanSu.resources
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmPhongBancs.resources
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmTimKiem.resources
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmTrinhDo.resources
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.Properties.Resources.resources
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmThongtinbanquyen.resources
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.Test.resources
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.TinhLuong.resources
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.csproj.GenerateResource.cache
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.csproj.CoreCompileInputs.cache
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.exe
+C:\QuanLyNhanSu\QuanLyNhanSu\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.pdb
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\bin\Debug\QuanLyNhanSu2.exe.config
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\bin\Debug\QuanLyNhanSu2.exe
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\bin\Debug\QuanLyNhanSu2.pdb
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.csprojAssemblyReference.cache
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.csproj.ResolveComReference.cache
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmPhucap.resources
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.LuongNV.resources
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.ThongTinLuong.resources
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FormTimKiem2.resources
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmCapnhatBH.resources
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmBaoHiem.resources
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmChucDanh.resources
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmChucVu.resources
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmDangNhap.resources
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmGioiThieu.resources
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmHopDong.resources
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.frmHoSoNhanSu.resources
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmPhongBancs.resources
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmTimKiem.resources
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmTrinhDo.resources
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.Properties.Resources.resources
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.FrmThongtinbanquyen.resources
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.Test.resources
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.TinhLuong.resources
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.csproj.GenerateResource.cache
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.exe
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.pdb
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\QuanLyNhanSu2.csproj.CoreCompileInputs.cache
+D:\Download\QUẢN LÝ NHÂN SỰ\THỰC TẬP TỐT NGHIỆP-NHÓM 5-QUẢN LÝ NHÂN SỰ\QuanLyNhanSu2\QuanLyNhanSu2\obj\x86\Debug\Interop.Office.dll
